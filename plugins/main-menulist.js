@@ -186,10 +186,10 @@ function _0x2a7c47(_0x5679cd,_0x3cd89d,_0x3a3146,_0x57ec64,_0x1de649){return _0x
     throw e
   }
 }
-handler.help = ['all']
+handler.help = ['menu']
 handler.tags = ['main']
 
-handler.command = /^(all)$/i
+handler.command = /^(menu)$/i
 
 handler.limit = false
 handler.register = false 
