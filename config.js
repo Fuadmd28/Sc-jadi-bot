@@ -64,9 +64,9 @@ global.psaweria = 'https://saweria.com/mrw4h1d'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '6282124046059'
-global.nomorown = '6283133329293'
+global.nomorown = '628989513496'
 global.namebot = 'ZYKO BOTZ MD'
-global.nameown = 'ZYKO MD'
+global.nameown = 'OM FUAD'
 
 /*============== Github Thanks To ==============*/
 global.namagithub = 'ZykoBotz-MD' // nama github lu
@@ -77,7 +77,7 @@ global.linkgithub = sgh // EDIT LINK GITHUB DI global.sgh
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6283133329293', 'ZYKO MD', true],
+  ['628989513496', 'OM FUAD', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
